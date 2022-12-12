@@ -1,10 +1,10 @@
 # Skoltech
-Практика Сколтеха, 2020
-# Теоретическая модель эффективной теплопроводности Лихтенеккера
-Теоретическая модель эффективной теплопроводности Лихтенеккера, достаточно широко используется в петрофизике для расчета
-теплопроводности (по данным о пористости пород и минеральном составе,
-теплопроводности минерального скелета) при интерпретации
-экспериментальных данных о теплопроводности пород и получения данных о
-теплопроводности пород при отсутствии эксперимента. Эта модель
-рекомендуется многими исследователями для решения различных задач
-тепловой петрофизики и геотермии.
+Skoltech Internship, 2020
+# Theoretical model of the effective thermal conductivity of Lichtenecker
+The theoretical model of the effective thermal conductivity of Lichtenecker is widely used in petrophysics to calculate
+thermal conductivity (according to data on the porosity of rocks and mineral composition,
+thermal conductivity of the mineral skeleton) when interpreting
+experimental data on the thermal conductivity of rocks and obtaining data on
+the thermal conductivity of rocks in the absence of an experiment. This model
+is recommended by many researchers for solving various problems
+of thermal petrophysics and geothermy.
